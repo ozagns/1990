@@ -5,6 +5,11 @@
     "kota": "Serang"
   },
   {
+    "nama": "Cicayur",
+    "koordinat": "-6.329564558750401, 106.61894318746388",
+    "kota": "Tangerang"
+  },
+  {
     "nama": "Cikeusal",
     "koordinat": "-6.216934149663159, 106.24461849231389",
     "kota": "Serang"
@@ -15,14 +20,34 @@
     "kota": "Tangerang"
   },
   {
+    "nama": "Cilejit",
+    "koordinat": "-6.354346876427091, 106.50957677380627",
+    "kota": "Tangerang"
+  },
+  {
+    "nama": "Cisauk",
+    "koordinat": "-6.3244089895233095, 106.64176040642823",
+    "kota": "Tangerang"
+  },
+  {
     "nama": "Citeras",
     "koordinat": "-6.3348879181220035, 106.33270771883392",
     "kota": "Lebak"
   },
   {
+    "nama": "Daru",
+    "koordinat": "-6.338037167226605, 106.49244654617144",
+    "kota": "Tangerang"
+  },
+  {
     "nama": "Jambu Baru",
     "koordinat": "-6.302982611353676, 106.26054827658176",
     "kota": "Serang"
+  },
+  {
+    "nama": "Jatake",
+    "koordinat": "-6.334680958954126, 106.60668743936468",
+    "kota": "Tangerang"
   },
   {
     "nama": "Karangantu",
@@ -40,6 +65,11 @@
     "kota": "Lebak"
   },
   {
+    "nama": "Parung Panjang",
+    "koordinat": "-6.344223410660148, 106.56983508855764",
+    "kota": "Bogor"
+  },
+  {
     "nama": "Rangkasbitung",
     "koordinat": "-6.352683454949223, 106.25152902709425",
     "kota": "Lebak"
@@ -48,6 +78,16 @@
     "nama": "Serang",
     "koordinat": "-6.112369606440616, 106.1585780437394",
     "kota": "Serang"
+  },
+  {
+    "nama": "Serpong",
+    "koordinat": "-6.3201676200478625, 106.66559080998982",
+    "kota": "Tangerang"
+  },
+  {
+    "nama": "Tenjo",
+    "koordinat": "-6.327394659460878, 106.46171321824129",
+    "kota": "Bogor"
   },
   {
     "nama": "Tigaraksa",

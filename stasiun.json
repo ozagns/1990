@@ -1,5 +1,30 @@
 [
   {
+    "nama": "Catang",
+    "koordinat": "-6.265726227465129, 106.26797626600751",
+    "kota": "Serang"
+  },
+  {
+    "nama": "Cikeusal",
+    "koordinat": "-6.216934149663159, 106.24461849231389",
+    "kota": "Serang"
+  },
+  {
+    "nama": "Cikoya",
+    "koordinat": "-6.335598844485433, 106.41180843519045",
+    "kota": "Tangerang"
+  },
+  {
+    "nama": "Citeras",
+    "koordinat": "-6.3348879181220035, 106.33270771883392",
+    "kota": "Lebak"
+  },
+  {
+    "nama": "Jambu Baru",
+    "koordinat": "-6.302982611353676, 106.26054827658176",
+    "kota": "Serang"
+  },
+  {
     "nama": "Karangantu",
     "koordinat": "-6.039078016993741, 106.16192248361796",
     "kota": "Serang"
@@ -10,8 +35,33 @@
     "kota": "Cilegon"
   },
   {
+    "nama": "Maja",
+    "koordinat": "-6.3323783066067065, 106.39655991043601",
+    "kota": "Lebak"
+  },
+  {
+    "nama": "Rangkasbitung",
+    "koordinat": "-6.352683454949223, 106.25152902709425",
+    "kota": "Lebak"
+  },
+  {
+    "nama": "Serang",
+    "koordinat": "-6.112369606440616, 106.1585780437394",
+    "kota": "Serang"
+  },
+  {
+    "nama": "Tigaraksa",
+    "koordinat": "-6.3285804433815835, 106.43444656153017",
+    "kota": "Tangerang"
+  },
+  {
     "nama": "Tonjong Baru",
     "koordinat": "-6.031318012319626, 106.12141808460993",
+    "kota": "Serang"
+  },
+  {
+    "nama": "Walantaka",
+    "koordinat": "-6.155437590627919, 106.2188306569136",
     "kota": "Serang"
   }
 ]

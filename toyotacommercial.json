@@ -1,0 +1,81 @@
+[
+  {
+    "nama": "Hiace Commuter",
+    "kategori": "Commercial Van / Minibus",
+    "harga": "575.400.000",
+    "seat": 16,
+    "kapasitas_mesin": "2.494 cc",
+    "tipe_mesin": "2KD-FTV 4-Silinder Segaris DOHC 16-Valve D-4D Turbocharged",
+    "tenaga_maksimum": "102 PS",
+    "torsi_maksimum": "260 Nm",
+    "transmisi": "Manual 5-Speed",
+    "penggerak": "RWD",
+    "bahan_bakar": "Diesel"
+  },
+  {
+    "nama": "Hiace Premio",
+    "kategori": "Commercial Van / Minibus",
+    "harga": "678.800.000",
+    "seat": 14,
+    "kapasitas_mesin": "2.755 cc",
+    "tipe_mesin": "1GD-FTV 4-Silinder Segaris DOHC 16-Valve VNT Intercooler Turbo",
+    "tenaga_maksimum": "176.8 PS",
+    "torsi_maksimum": "420 Nm",
+    "transmisi": "Manual 6-Speed",
+    "penggerak": "RWD",
+    "bahan_bakar": "Diesel"
+  },
+  {
+    "nama": "Hilux Battery EV",
+    "kategori": "Double Cabin Pick-up (BEV)",
+    "harga": "1.019.000.000",
+    "seat": 5,
+    "kapasitas_baterai": "59.2 kWh Lithium-ion",
+    "tipe_motor": "Dual Permanent Magnet Synchronous Motors",
+    "tenaga_maksimum": "193 HP / 144 kW",
+    "torsi_maksimum": "474 Nm (Front: 205.5 Nm, Rear: 268.6 Nm)",
+    "jarak_tempuh": "Hingga 315 km",
+    "transmisi": "Otomatis 1-Speed Reduction Gear",
+    "penggerak": "AWD / 4x4",
+    "bahan_bakar": "Listrik Murni (BEV)"
+  },
+  {
+    "nama": "Hilux D Cab",
+    "kategori": "Double Cabin Pick-up",
+    "harga": "466.300.000",
+    "seat": 5,
+    "kapasitas_mesin": "2.393 cc",
+    "tipe_mesin": "2GD-FTV 4-Silinder Segaris DOHC 16-Valve VNT Intercooler Turbo Diesel",
+    "tenaga_maksimum": "149.6 PS",
+    "torsi_maksimum": "400 Nm",
+    "transmisi": "Manual 6-Speed",
+    "penggerak": "4WD (Part-Time 4x4)",
+    "bahan_bakar": "Diesel"
+  },
+  {
+    "nama": "Hilux Rangga",
+    "kategori": "Light Commercial Pick-up",
+    "harga": "194.300.000",
+    "seat": 2,
+    "kapasitas_mesin": "1.998 cc",
+    "tipe_mesin": "1TR-FE 4-Silinder Segaris DOHC Dual VVT-i",
+    "tenaga_maksimum": "139 PS",
+    "torsi_maksimum": "183 Nm",
+    "transmisi": "Manual 5-Speed",
+    "penggerak": "RWD",
+    "bahan_bakar": "Bensin"
+  },
+  {
+    "nama": "Hilux S Cab",
+    "kategori": "Single Cabin Pick-up",
+    "harga": "416.800.000",
+    "seat": 2,
+    "kapasitas_mesin": "2.393 cc",
+    "tipe_mesin": "2GD-FTV 4-Silinder Segaris DOHC 16-Valve VNT Intercooler Turbo Diesel",
+    "tenaga_maksimum": "149.6 PS",
+    "torsi_maksimum": "400 Nm",
+    "transmisi": "Manual 6-Speed",
+    "penggerak": "4WD (Part-Time 4x4)",
+    "bahan_bakar": "Diesel"
+  }
+]

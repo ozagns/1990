@@ -82,7 +82,7 @@
   {
     "nama": "Serpong",
     "koordinat": "-6.3201676200478625, 106.66559080998982",
-    "kota": "Tangerang"
+    "kota": "Tangerang Selatan"
   },
   {
     "nama": "Tenjo",
@@ -103,5 +103,95 @@
     "nama": "Walantaka",
     "koordinat": "-6.155437590627919, 106.2188306569136",
     "kota": "Serang"
+  },
+  {
+    "nama": "Rawa Buntu",
+    "koordinat": "-6.314987079178383, 106.67618094124524",
+    "kota": "Tangerang Selatan"
+  },
+  {
+    "nama": "Sudimara",
+    "koordinat": "-6.29692377471681, 106.71275910933954",
+    "kota": "Tangerang Selatan"
+  },
+  {
+    "nama": "Jurang Mangu",
+    "koordinat": "-6.288749899615903, 106.72907182538069",
+    "kota": "Tangerang Selatan"
+  },
+  {
+    "nama": "Pondok Ranji",
+    "koordinat": "-6.276634365177499, 106.74464545515796",
+    "kota": "Tangerang Selatan"
+  },
+  {
+    "nama": "Kebayoran",
+    "koordinat": "-6.237258500509582, 106.78253765573767",
+    "kota": "Jakarta Selatan"
+  },
+  {
+    "nama": "Palmerah",
+    "koordinat": "-6.207605216719934, 106.79739313239666",
+    "kota": "Jakarta Pusat"
+  },
+  {
+    "nama": "Karet",
+    "koordinat": "-6.2008271576301315, 106.81592983116705",
+    "kota": "Jakarta Pusat"
+  },
+  {
+    "nama": "Tanah Abang",
+    "koordinat": "-6.185734197090728, 106.8108803157136",
+    "kota": "Jakarta Pusat"
+  },
+  {
+    "nama": "Grogol",
+    "koordinat": "-6.162008592778168, 106.7888921324044",
+    "kota": "Jakarta Barat"
+  },
+  {
+    "nama": "Pesing",
+    "koordinat": "-6.1613058145589275, 106.77190146865462",
+    "kota": "Jakarta Barat"
+  },
+  {
+    "nama": "Taman Kota",
+    "koordinat": "-6.158584939494923, 106.75650499106182",
+    "kota": "Jakarta Barat"
+  },
+  {
+    "nama": "Bojong Indah",
+    "koordinat": "-6.160084318408446, 106.73639024274469",
+    "kota": "Jakarta Barat"
+  },
+  {
+    "nama": "Rawa Buaya",
+    "koordinat": "-6.1626762905568455, 106.72360994259759",
+    "kota": "Jakarta Barat"
+  },
+  {
+    "nama": "Kalideres",
+    "koordinat": "-6.166053322729333, 106.70378011962738",
+    "kota": "Jakarta Barat"
+  },
+  {
+    "nama": "Poris",
+    "koordinat": "-6.169746315166022, 106.68114398719557",
+    "kota": "Tangerang"
+  },
+  {
+    "nama": "Batu Ceper",
+    "koordinat": "-6.172093694090048, 106.6650510138948",
+    "kota": "Tangerang"
+  },
+  {
+    "nama": "Tanahtinggi",
+    "koordinat": "-6.1752203738334694, 106.6464488158298",
+    "kota": "Tangerang"
+  },
+  {
+    "nama": "Tangerang",
+    "koordinat": "-6.176813044606685, 106.6321551978932",
+    "kota": "Tangerang"
   }
 ]

@@ -1,0 +1,59 @@
+{
+  "companies": [
+    {
+      "id": "mandala-capital",
+      "name": "PT Mandala Dana Mandiri",
+      "tenors": [
+        { "days": 30, "ratePercent": 4.5 },
+        { "days": 60, "ratePercent": 8.5 },
+        { "days": 90, "ratePercent": 12.0 },
+        { "days": 180, "ratePercent": 17.5 },
+        { "days": 360, "ratePercent": 23.0 }
+      ]
+    },
+    {
+      "id": "wira-karya",
+      "name": "PT Wira Artha Sejahtera",
+      "tenors": [
+        { "days": 30, "ratePercent": 5.0 },
+        { "days": 60, "ratePercent": 9.2 },
+        { "days": 90, "ratePercent": 13.5 },
+        { "days": 180, "ratePercent": 19.0 },
+        { "days": 360, "ratePercent": 25.5 }
+      ]
+    },
+    {
+      "id": "astra-sentosa",
+      "name": "PT Nusa Finansia Abadi",
+      "tenors": [
+        { "days": 30, "ratePercent": 4.0 },
+        { "days": 60, "ratePercent": 7.8 },
+        { "days": 90, "ratePercent": 11.2 },
+        { "days": 180, "ratePercent": 16.0 },
+        { "days": 360, "ratePercent": 21.5 }
+      ]
+    },
+    {
+      "id": "cakra-investama",
+      "name": "PT Cakra Dana Utama",
+      "tenors": [
+        { "days": 30, "ratePercent": 5.5 },
+        { "days": 60, "ratePercent": 10.0 },
+        { "days": 90, "ratePercent": 14.0 },
+        { "days": 180, "ratePercent": 20.5 },
+        { "days": 360, "ratePercent": 27.0 }
+      ]
+    },
+    {
+      "id": "pilar-fintek",
+      "name": "PT Pilar Solusi Finansial",
+      "tenors": [
+        { "days": 30, "ratePercent": 3.8 },
+        { "days": 60, "ratePercent": 7.2 },
+        { "days": 90, "ratePercent": 10.5 },
+        { "days": 180, "ratePercent": 15.0 },
+        { "days": 360, "ratePercent": 20.0 }
+      ]
+    }
+  ]
+}

@@ -1,72 +1,187 @@
 [
   {
     "nama": "bZ4X Battery EV",
+    "kategori": "Mid-size SUV (BEV)",
     "harga": "799.000.000",
-    "seat": "5"
+    "seat": 5,
+    "kapasitas_baterai": "71.4 kWh Lithium-ion",
+    "tipe_motor": "Permanent Magnet Synchronous Motor (FWD)",
+    "tenaga_maksimum": "204 PS (150 kW)",
+    "torsi_maksimum": "266 Nm",
+    "jarak_tempuh": "Hingga 500 km (WLTP)",
+    "transmisi": "Otomatis 1-Speed Reduction Gear",
+    "penggerak": "FWD",
+    "bahan_bakar": "Listrik Murni (BEV)"
   },
   {
     "nama": "bZ4X Touring Battery EV",
+    "kategori": "Mid-size SUV (BEV)",
     "harga": "889.000.000",
-    "seat": "5"
+    "seat": 5,
+    "kapasitas_baterai": "74.7 kWh Lithium-ion",
+    "tipe_motor": "Dual Permanent Magnet Synchronous Motors",
+    "tenaga_maksimum": "380 PS (280 kW)",
+    "torsi_maksimum": "537 Nm",
+    "jarak_tempuh": "Hingga 528 km (WLTP)",
+    "transmisi": "Otomatis 1-Speed Reduction Gear",
+    "penggerak": "AWD (X-MODE)",
+    "bahan_bakar": "Listrik Murni (BEV)"
   },
   {
     "nama": "Corolla Cross Hybrid EV",
+    "kategori": "Compact Crossover SUV",
     "harga": "606.400.000",
-    "seat": "5"
+    "seat": 5,
+    "kapasitas_mesin": "1.798 cc",
+    "tipe_mesin": "2ZR-FXE 4-Silinder DOHC 16-Valve Dual VVT-i Hybrid",
+    "tenaga_maksimum": "98 PS (Motor Listrik 72 PS, Kombinasi ~122 PS)",
+    "torsi_maksimum": "142 Nm (Motor Listrik 163 Nm)",
+    "transmisi": "e-CVT",
+    "penggerak": "FWD",
+    "bahan_bakar": "Bensin Hybrid"
   },
   {
     "nama": "Corolla Cross Hybrid EV GR Sport",
+    "kategori": "Compact Crossover SUV",
     "harga": "646.500.000",
-    "seat": "5"
+    "seat": 5,
+    "kapasitas_mesin": "1.798 cc",
+    "tipe_mesin": "2ZR-FXE 4-Silinder DOHC 16-Valve Dual VVT-i Hybrid",
+    "tenaga_maksimum": "98 PS (Motor Listrik 72 PS, Kombinasi ~122 PS)",
+    "torsi_maksimum": "142 Nm (Motor Listrik 163 Nm)",
+    "transmisi": "e-CVT",
+    "penggerak": "FWD",
+    "bahan_bakar": "Bensin Hybrid"
   },
   {
     "nama": "Fortuner",
+    "kategori": "Ladder Frame SUV",
     "harga": "626.100.000",
-    "seat": "7"
+    "seat": 7,
+    "kapasitas_mesin": "2.755 cc",
+    "tipe_mesin": "1GD-FTV 4-Silinder DOHC VNT Intercooler Turbo Diesel",
+    "tenaga_maksimum": "203.9 PS",
+    "torsi_maksimum": "500 Nm",
+    "transmisi": "Otomatis 6-Speed dengan Sport Sequential Switchmatic",
+    "penggerak": "RWD (4x2)",
+    "bahan_bakar": "Diesel"
   },
   {
     "nama": "Fortuner GR Sport",
+    "kategori": "Ladder Frame SUV",
     "harga": "789.600.000",
-    "seat": "7"
+    "seat": 7,
+    "kapasitas_mesin": "2.755 cc",
+    "tipe_mesin": "1GD-FTV 4-Silinder DOHC VNT Intercooler Turbo Diesel",
+    "tenaga_maksimum": "203.9 PS",
+    "torsi_maksimum": "500 Nm",
+    "transmisi": "Otomatis 6-Speed dengan Paddle Shift",
+    "penggerak": "4WD (4x4)",
+    "bahan_bakar": "Diesel"
   },
   {
     "nama": "Land Cruiser",
+    "kategori": "Full-size Luxury Off-Road SUV",
     "harga": "2.636.000.000",
-    "seat": "7"
+    "seat": 7,
+    "kapasitas_mesin": "3.346 cc",
+    "tipe_mesin": "F33A-FTV V6 Twin-Turbo Diesel DOHC",
+    "tenaga_maksimum": "305 PS",
+    "torsi_maksimum": "700 Nm",
+    "transmisi": "Direct Shift 10-Speed Automatic",
+    "penggerak": "Full-Time 4WD",
+    "bahan_bakar": "Diesel"
   },
   {
     "nama": "Land Cruiser Hybrid EV",
+    "kategori": "Full-size Luxury Off-Road SUV",
     "harga": "2.716.000.000",
-    "seat": "5"
+    "seat": 5,
+    "kapasitas_mesin": "2.393 cc",
+    "tipe_mesin": "T24A-FTS 4-Silinder Turbo i-FORCE MAX Hybrid",
+    "tenaga_maksimum": "330 PS (Kombinasi)",
+    "torsi_maksimum": "630 Nm (Kombinasi)",
+    "transmisi": "Direct Shift 8-Speed Automatic",
+    "penggerak": "Full-Time 4WD",
+    "bahan_bakar": "Bensin Hybrid"
   },
   {
     "nama": "Raize",
+    "kategori": "Compact Subcompact SUV",
     "harga": "243.500.000",
-    "seat": "5"
+    "seat": 5,
+    "kapasitas_mesin": "1.198 cc",
+    "tipe_mesin": "WA-VE 3-Silinder DOHC Dual VVT-i",
+    "tenaga_maksimum": "88 PS",
+    "torsi_maksimum": "113 Nm",
+    "transmisi": "CVT",
+    "penggerak": "FWD",
+    "bahan_bakar": "Bensin"
   },
   {
     "nama": "Raize GR Sport",
+    "kategori": "Compact Subcompact SUV",
     "harga": "292.100.000",
-    "seat": "5"
+    "seat": 5,
+    "kapasitas_mesin": "998 cc",
+    "tipe_mesin": "1KR-VET 3-Silinder Turbo DOHC VVT-i",
+    "tenaga_maksimum": "98 PS",
+    "torsi_maksimum": "140 Nm",
+    "transmisi": "CVT dengan Paddle Shift",
+    "penggerak": "FWD",
+    "bahan_bakar": "Bensin"
   },
   {
     "nama": "Rush GR Sport",
+    "kategori": "Low SUV",
     "harga": "290.100.000",
-    "seat": "7"
+    "seat": 7,
+    "kapasitas_mesin": "1.496 cc",
+    "tipe_mesin": "2NR-VE 4-Silinder DOHC Dual VVT-i",
+    "tenaga_maksimum": "104 PS",
+    "torsi_maksimum": "136 Nm",
+    "transmisi": "Otomatis 4-Speed",
+    "penggerak": "RWD",
+    "bahan_bakar": "Bensin"
   },
   {
     "nama": "Urban Cruiser Battery EV",
+    "kategori": "Subcompact SUV (BEV)",
     "harga": "759.000.000",
-    "seat": "5"
+    "seat": 5,
+    "kapasitas_baterai": "61.1 kWh Lithium Iron Phosphate",
+    "tipe_motor": "Permanent Magnet Synchronous Motor",
+    "tenaga_maksimum": "174 PS (128 kW)",
+    "torsi_maksimum": "189 Nm",
+    "jarak_tempuh": "Hingga 426.7 km",
+    "transmisi": "Otomatis 1-Speed Reduction Gear",
+    "penggerak": "FWD",
+    "bahan_bakar": "Listrik Murni (BEV)"
   },
   {
     "nama": "Yaris Cross",
+    "kategori": "Compact Crossover SUV",
     "harga": "359.700.000",
-    "seat": "5"
+    "seat": 5,
+    "kapasitas_mesin": "1.496 cc",
+    "tipe_mesin": "2NR-VE 4-Silinder DOHC Dual VVT-i",
+    "tenaga_maksimum": "106 PS",
+    "torsi_maksimum": "138 Nm",
+    "transmisi": "CVT",
+    "penggerak": "FWD",
+    "bahan_bakar": "Bensin"
   },
   {
     "nama": "Yaris Cross Hybrid EV",
+    "kategori": "Compact Crossover SUV",
     "harga": "448.800.000",
-    "seat": "5"
+    "seat": 5,
+    "kapasitas_mesin": "1.496 cc",
+    "tipe_mesin": "2NR-VEX 4-Silinder DOHC Dual VVT-i Hybrid",
+    "tenaga_maksimum": "91 PS (Motor Listrik 80 PS, Total Kombinasi ~111 PS)",
+    "torsi_maksimum": "121 Nm (Motor Listrik 141 Nm)",
+    "transmisi": "e-CVT",
+    "penggerak": "FWD",
+    "bahan_bakar": "Bensin Hybrid"
   }
 ]

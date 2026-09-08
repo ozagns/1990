@@ -1,0 +1,93 @@
+[
+  {
+    "nama": "Camry",
+    "kategori": "Mid-size Sedan",
+    "harga": "856.200.000",
+    "seat": 5,
+    "kapasitas_mesin": "2.487 cc",
+    "tipe_mesin": "A25A-FKS 4-Silinder Segaris DOHC Dual VVT-i",
+    "tenaga_maksimum": "204 PS",
+    "torsi_maksimum": "243 Nm",
+    "transmisi": "Direct Shift 8-Speed Automatic",
+    "penggerak": "FWD",
+    "bahan_bakar": "Bensin"
+  },
+  {
+    "nama": "Camry Hybrid EV",
+    "kategori": "Mid-size Sedan",
+    "harga": "977.200.000",
+    "seat": 5,
+    "kapasitas_mesin": "2.487 cc",
+    "tipe_mesin": "A25A-FXS 4-Silinder Segaris DOHC Dual VVT-i Hybrid (THS II)",
+    "tenaga_maksimum": "178 PS (Total Kombinasi Sistem ~211 PS / 225 PS)",
+    "torsi_maksimum": "221 Nm (Motor Listrik 202 Nm)",
+    "transmisi": "e-CVT",
+    "penggerak": "FWD",
+    "bahan_bakar": "Bensin Hybrid"
+  },
+  {
+    "nama": "Corolla Altis Hybrid EV",
+    "kategori": "Compact Sedan",
+    "harga": "639.900.000",
+    "seat": 5,
+    "kapasitas_mesin": "1.798 cc",
+    "tipe_mesin": "2ZR-FXE 4-Silinder Segaris DOHC 16-Valve Dual VVT-i Hybrid",
+    "tenaga_maksimum": "98 PS (Motor Listrik 72 PS, Kombinasi ~122 PS)",
+    "torsi_maksimum": "142 Nm (Motor Listrik 163 Nm)",
+    "transmisi": "e-CVT",
+    "penggerak": "FWD",
+    "bahan_bakar": "Bensin Hybrid"
+  },
+  {
+    "nama": "Corolla Altis Hybrid EV GR Sport",
+    "kategori": "Compact Sedan",
+    "harga": "646.600.000",
+    "seat": 5,
+    "kapasitas_mesin": "1.798 cc",
+    "tipe_mesin": "2ZR-FXE 4-Silinder Segaris DOHC 16-Valve Dual VVT-i Hybrid",
+    "tenaga_maksimum": "98 PS (Motor Listrik 72 PS, Kombinasi ~122 PS)",
+    "torsi_maksimum": "142 Nm (Motor Listrik 163 Nm)",
+    "transmisi": "e-CVT",
+    "penggerak": "FWD",
+    "bahan_bakar": "Bensin Hybrid"
+  },
+  {
+    "nama": "GR 86",
+    "kategori": "Sports Coupe",
+    "harga": "1.053.700.000",
+    "seat": 4,
+    "kapasitas_mesin": "2.387 cc",
+    "tipe_mesin": "FA24 4-Silinder Boxer Horizontally Opposed DOHC D-4S",
+    "tenaga_maksimum": "235 PS",
+    "torsi_maksimum": "250 Nm",
+    "transmisi": "6-Speed Manual / 6-Speed Automatic with Paddle Shift",
+    "penggerak": "RWD",
+    "bahan_bakar": "Bensin (RON 98+)"
+  },
+  {
+    "nama": "Vios",
+    "kategori": "Small Sedan",
+    "harga": "375.800.000",
+    "seat": 5,
+    "kapasitas_mesin": "1.496 cc",
+    "tipe_mesin": "2NR-VE 4-Silinder Segaris DOHC Dual VVT-i",
+    "tenaga_maksimum": "106 PS",
+    "torsi_maksimum": "138 Nm",
+    "transmisi": "CVT",
+    "penggerak": "FWD",
+    "bahan_bakar": "Bensin"
+  },
+  {
+    "nama": "Vios Hybrid EV",
+    "kategori": "Small Sedan",
+    "harga": "460.500.000",
+    "seat": 5,
+    "kapasitas_mesin": "1.496 cc",
+    "tipe_mesin": "2NR-VEX 4-Silinder Segaris DOHC Dual VVT-i Hybrid",
+    "tenaga_maksimum": "91 PS (Motor Listrik 80 PS, Total Kombinasi ~111 PS)",
+    "torsi_maksimum": "121 Nm (Motor Listrik 141 Nm)",
+    "transmisi": "e-CVT",
+    "penggerak": "FWD",
+    "bahan_bakar": "Bensin Hybrid"
+  }
+]

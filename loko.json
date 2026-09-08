@@ -1,0 +1,275 @@
+{
+  "operator": "PT Kereta Api Indonesia (Persero) & Balai Pengujian Perkeretaapian",
+  "lebar_sepur_mm": 1067,
+  "mata_uang": "IDR",
+  "kategori_armada": {
+    "lokomotif_layanan_utama": [
+      {
+        "seri": "CC201",
+        "model": "GE U18C",
+        "pabrikan": "General Electric",
+        "transmisi": "Diesel-Elektrik",
+        "susunan_gandar": "Co'Co'",
+        "spesifikasi": {
+          "mesin": "GE 7FDL-8",
+          "tenaga_hp": 1950,
+          "kecepatan_maksimal_kmh": 120,
+          "berat_ton": 84,
+          "gaya_tarik_kn": 176
+        },
+        "kategori_operasi": "Layanan Utama Jalur Utama",
+        "peran": "Kereta Penumpang & Kereta Barang Campuran",
+        "harga_pengadaan_idr": 13500000000
+      },
+      {
+        "seri": "CC202",
+        "model": "EMD G26MC-2U",
+        "pabrikan": "Electro-Motive Diesel (EMD) / GM",
+        "transmisi": "Diesel-Elektrik",
+        "susunan_gandar": "Co'Co'",
+        "spesifikasi": {
+          "mesin": "EMD 16-645E",
+          "tenaga_hp": 2250,
+          "kecepatan_maksimal_kmh": 80,
+          "berat_ton": 108,
+          "gaya_tarik_kn": 240
+        },
+        "kategori_operasi": "Layanan Barang Berat",
+        "peran": "Angkutan Kereta Api Batubara Tarahan (Babaranjang)",
+        "harga_pengadaan_idr": 20000000000
+      },
+      {
+        "seri": "CC203",
+        "model": "GE U20C",
+        "pabrikan": "General Electric & PT INKA",
+        "transmisi": "Diesel-Elektrik",
+        "susunan_gandar": "Co'Co'",
+        "spesifikasi": {
+          "mesin": "GE 7FDL-8",
+          "tenaga_hp": 2150,
+          "kecepatan_maksimal_kmh": 120,
+          "berat_ton": 84,
+          "gaya_tarik_kn": 196
+        },
+        "kategori_operasi": "Layanan Utama Jalur Utama",
+        "peran": "Kereta Penumpang Cepat / Eksekutif",
+        "harga_pengadaan_idr": 21000000000
+      },
+      {
+        "seri": "CC204",
+        "model": "GE C20EMP",
+        "pabrikan": "General Electric & PT INKA",
+        "transmisi": "Diesel-Elektrik (Kendali Komputer BrightStar)",
+        "susunan_gandar": "Co'Co'",
+        "spesifikasi": {
+          "mesin": "GE 7FDL-8",
+          "tenaga_hp": 2150,
+          "kecepatan_maksimal_kmh": 120,
+          "berat_ton": 84,
+          "gaya_tarik_kn": 200
+        },
+        "kategori_operasi": "Layanan Utama Jalur Utama",
+        "peran": "Kereta Penumpang & Barang",
+        "harga_pengadaan_idr": 25000000000
+      },
+      {
+        "seri": "CC205",
+        "model": "EMD GT38ACe",
+        "pabrikan": "Progress Rail (EMD)",
+        "transmisi": "Diesel-Elektrik (Motor Traksi AC)",
+        "susunan_gandar": "Co'Co'",
+        "spesifikasi": {
+          "mesin": "EMD 8-710G3A-T2",
+          "tenaga_hp": 2250,
+          "kecepatan_maksimal_kmh": 80,
+          "berat_ton": 108,
+          "gaya_tarik_kn": 450
+        },
+        "kategori_operasi": "Layanan Barang Berat",
+        "peran": "Angkutan Kereta Batubara Tonase Tinggi",
+        "harga_pengadaan_idr": 65000000000
+      },
+      {
+        "seri": "CC206",
+        "model": "GE CM20EMP",
+        "pabrikan": "General Electric",
+        "transmisi": "Diesel-Elektrik",
+        "susunan_gandar": "Co'Co'",
+        "spesifikasi": {
+          "mesin": "GE 7FDL-8",
+          "tenaga_hp": 2250,
+          "kecepatan_maksimal_kmh": 120,
+          "berat_ton": 90,
+          "gaya_tarik_kn": 245
+        },
+        "kategori_operasi": "Layanan Utama Jalur Utama",
+        "peran": "Armada Utama Penumpang Jarak Jauh & Kereta Petikemas",
+        "harga_pengadaan_idr": 28000000000
+      },
+      {
+        "seri": "CC300",
+        "model": "INKA CC300",
+        "pabrikan": "PT Industri Kereta Api (INKA)",
+        "transmisi": "Diesel-Hidrolik",
+        "susunan_gandar": "Co'Co'",
+        "spesifikasi": {
+          "mesin": "Caterpillar 3512B HD",
+          "tenaga_hp": 2500,
+          "kecepatan_maksimal_kmh": 120,
+          "berat_ton": 84,
+          "gaya_tarik_kn": 270
+        },
+        "kategori_operasi": "Layanan Khusus / Utilitas",
+        "peran": "Lokomotif Tahan Banjir, Penghela Rangkaian Khusus & Cadangan Kemenhub",
+        "harga_pengadaan_idr": 40000000000
+      }
+    ],
+    "lokomotif_langsir": [
+      {
+        "seri": "D301",
+        "model": "Krupp M350D",
+        "pabrikan": "Fried. Krupp",
+        "transmisi": "Diesel-Hidrolik",
+        "susunan_gandar": "D",
+        "spesifikasi": {
+          "mesin": "Mercedes-Benz MB 836 Bb",
+          "tenaga_hp": 340,
+          "kecepatan_maksimal_kmh": 50,
+          "berat_ton": 33,
+          "gaya_tarik_kn": 88
+        },
+        "kategori_operasi": "Langsir Depo",
+        "peran": "Langsir Rangkaian di Depo Traksi dan Balai Yasa",
+        "harga_pengadaan_idr": 4000000000
+      },
+      {
+        "seri": "BB304",
+        "model": "Krupp M1500BB",
+        "pabrikan": "Fried. Krupp",
+        "transmisi": "Diesel-Hidrolik",
+        "susunan_gandar": "B'B'",
+        "spesifikasi": {
+          "mesin": "MTU 12V 652 TB11",
+          "tenaga_hp": 1500,
+          "kecepatan_maksimal_kmh": 120,
+          "berat_ton": 52,
+          "gaya_tarik_kn": 135
+        },
+        "kategori_operasi": "Langsir Berat / Jalur Cabang",
+        "peran": "Langsir Rangkaian Panjang & Dinas Khusus Pelabuhan",
+        "harga_pengadaan_idr": 9000000000
+      }
+    ],
+    "unit_evakuasi_dan_penolong": [
+      {
+        "seri": "KRD_NR_Djoko_Tingkir",
+        "model": "KRD Penolong (Basis Modifikasi MCW 302)",
+        "pabrikan": "Nippon Sharyo (Dimodifikasi Balai Yasa Manggarai)",
+        "transmisi": "Diesel-Hidrolik",
+        "susunan_gandar": "Bo'Bo'",
+        "spesifikasi": {
+          "mesin": "Shinko DMH17H / Cummins NTA855",
+          "tenaga_hp": 400,
+          "kecepatan_maksimal_kmh": 90,
+          "berat_ton": 36,
+          "gaya_tarik_kn": 60
+        },
+        "kategori_operasi": "Tanggap Darurat (NR)",
+        "peran": "Evakuasi KRL Mogok atau Anjlok, Penarik Rangkaian Khusus, Kru Reaksi Cepat",
+        "harga_pengadaan_idr": 9500000000
+      },
+      {
+        "seri": "Derek_Rel_Kirow_KRC1200N",
+        "model": "Kirow Multi Tasker KRC 1200 N",
+        "pabrikan": "Kirow Ardelt GmbH (Jerman)",
+        "transmisi": "Diesel-Hidrolik Berpenggerak Sendiri (Self-Propelled)",
+        "susunan_gandar": "Bogie Khusus Multi-Axle",
+        "spesifikasi": {
+          "mesin": "Deutz Diesel Powerpack",
+          "tenaga_hp": 350,
+          "kecepatan_maksimal_kmh": 80,
+          "berat_ton": 120,
+          "kapasitas_angkat_ton": 120
+        },
+        "kategori_operasi": "Pengangkatan & Evakuasi Berat",
+        "peran": "Evakuasi Lokomotif / Kereta Terguling & Anjlok Berat di Jalur Rel",
+        "harga_pengadaan_idr": 90000000000
+      },
+      {
+        "seri": "Derek_Rel_Gottwald_GS100",
+        "model": "Gottwald Railway Crane GS 100.06",
+        "pabrikan": "Gottwald (Jerman)",
+        "transmisi": "Diesel-Hidrolik",
+        "susunan_gandar": "Multi-Axle Heavy Frame",
+        "spesifikasi": {
+          "mesin": "Deutz F8L413",
+          "tenaga_hp": 230,
+          "kecepatan_maksimal_kmh": 60,
+          "berat_ton": 100,
+          "kapasitas_angkat_ton": 100
+        },
+        "kategori_operasi": "Pengangkatan & Evakuasi Berat",
+        "peran": "Evakuasi Sarana Tergelincir & Pemindahan Komponen Jalan Rel Berat",
+        "harga_pengadaan_idr": 45000000000
+      }
+    ],
+    "perawatan_dan_pemeriksaan_rel": [
+      {
+        "seri": "MTT_09_16_CSM",
+        "model": "Continuous Tamping Machine 09-16 CSM (Mesin Pecok)",
+        "pabrikan": "Plasser & Theurer (Austria)",
+        "transmisi": "Hidrostatik / Diesel-Hidrolik",
+        "susunan_gandar": "Bo'Bo'",
+        "spesifikasi": {
+          "mesin": "Deutz BF12L513",
+          "tenaga_hp": 480,
+          "kecepatan_maksimal_kmh": 80,
+          "berat_ton": 64,
+          "kapasitas_pecok_meter_per_jam": 1200
+        },
+        "kategori_operasi": "Perawatan Jalan Rel",
+        "peran": "Pemadat, Pengangkat, dan Perata Geometri Batu Balas serta Bantalan Rel",
+        "harga_pengadaan_idr": 65000000000
+      },
+      {
+        "seri": "PBR_USP_4000C",
+        "model": "Ballast Regulating & Profiling Machine (Mesin PBR)",
+        "pabrikan": "Plasser & Theurer (Austria)",
+        "transmisi": "Hidrostatik",
+        "susunan_gandar": "Bo'Bo'",
+        "spesifikasi": {
+          "mesin": "Deutz Water-Cooled Diesel",
+          "tenaga_hp": 380,
+          "kecepatan_maksimal_kmh": 80,
+          "berat_ton": 45,
+          "kapasitas_sapu_meter_kubik_per_jam": 400
+        },
+        "kategori_operasi": "Perawatan Jalan Rel",
+        "peran": "Distribusi, Perataan, dan Pembentukan Profil Batu Balas di Sisi Rel",
+        "harga_pengadaan_idr": 38000000000
+      },
+      {
+        "seri": "Kereta_Ukur_Kedung_Sepur",
+        "model": "Kereta Ukur Jalan Rel Terpadu",
+        "pabrikan": "PT INKA & Plasser & Theurer",
+        "transmisi": "Diesel-Hidrolik",
+        "susunan_gandar": "Bo'Bo'",
+        "spesifikasi": {
+          "mesin": "Cummins QSN14",
+          "tenaga_hp": 525,
+          "kecepatan_maksimal_kmh": 100,
+          "berat_ton": 42,
+          "sistem_pengukuran": [
+            "Pengukur Geometri Jalan Rel (TGC)",
+            "Sensor Laser Lebar Sepur Tanpa Kontak",
+            "Pemeriksa Listrik Aliran Atas (LAA)",
+            "Akselerometer Dinamis Jalur"
+          ]
+        },
+        "kategori_operasi": "Inspeksi Geometri Jalur Rel",
+        "peran": "Pemeriksaan Berkala Lebar Sepur, Kemiringan (Cant), dan Kerataan Rel Otomatis",
+        "harga_pengadaan_idr": 50000000000
+      }
+    ]
+  }
+}

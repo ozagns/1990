@@ -1,0 +1,67 @@
+[
+  {
+    "nama": "Agya GR Sport",
+    "kategori": "Hatchback",
+    "harga": "238.100.000",
+    "seat": 5,
+    "kapasitas_mesin": "1.198 cc",
+    "tipe_mesin": "1.2L WA-VE 3-Silinder Dual VVT-i",
+    "tenaga_maksimum": "88 PS",
+    "torsi_maksimum": "113 Nm",
+    "transmisi": "CVT",
+    "penggerak": "FWD",
+    "bahan_bakar": "Bensin"
+  },
+  {
+    "nama": "Agya Stylix",
+    "kategori": "LCGC / City Car",
+    "harga": "174.300.000",
+    "seat": 5,
+    "kapasitas_mesin": "1.198 cc",
+    "tipe_mesin": "1.2L WA-VE 3-Silinder Dual VVT-i",
+    "tenaga_maksimum": "88 PS",
+    "torsi_maksimum": "113 Nm",
+    "transmisi": "Manual 5-Speed",
+    "penggerak": "FWD",
+    "bahan_bakar": "Bensin"
+  },
+  {
+    "nama": "GR Corolla",
+    "kategori": "Hot Hatch / Sports",
+    "harga": "1.379.900.000",
+    "seat": 5,
+    "kapasitas_mesin": "1.618 cc",
+    "tipe_mesin": "1.6L G16E-GTS Turbocharged 3-Silinder",
+    "tenaga_maksimum": "304 PS",
+    "torsi_maksimum": "370 Nm",
+    "transmisi": "Manual 6-Speed (iMT)",
+    "penggerak": "AWD (GR-FOUR)",
+    "bahan_bakar": "Bensin (RON 98+)"
+  },
+  {
+    "nama": "GR Yaris",
+    "kategori": "Hot Hatch / Sports",
+    "harga": "1.173.600.000",
+    "seat": 4,
+    "kapasitas_mesin": "1.618 cc",
+    "tipe_mesin": "1.6L G16E-GTS Turbocharged 3-Silinder",
+    "tenaga_maksimum": "305 PS",
+    "torsi_maksimum": "400 Nm",
+    "transmisi": "8-Speed DAT / Manual 6-Speed",
+    "penggerak": "AWD (GR-FOUR)",
+    "bahan_bakar": "Bensin (RON 98+)"
+  },
+  {
+    "nama": "Yaris GR Sport",
+    "kategori": "Hatchback",
+    "harga": "347.400.000",
+    "seat": 5,
+    "kapasitas_mesin": "1.496 cc",
+    "tipe_mesin": "1.5L 2NR-FE 4-Silinder Dual VVT-i",
+    "tenaga_maksimum": "107 PS",
+    "torsi_maksimum": "140 Nm",
+    "transmisi": "CVT 7-Speed Sequential",
+    "penggerak": "FWD",
+    "bahan_bakar": "Bensin"
+  }
+]

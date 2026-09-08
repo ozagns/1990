@@ -1,0 +1,232 @@
+{
+  "kategori_sarana": {
+    "kereta_penumpang": [
+      {
+        "kode_seri": "K1",
+        "nama_tipe": "Kereta Eksekutif Stainless Steel Generasi Baru (New Generation)",
+        "pabrikan": "PT INKA (Persero)",
+        "susunan_bogie": "TB-398 / Bolsterless (2 Gandar per Bogie)",
+        "spesifikasi": {
+          "kapasitas_kursi": 50,
+          "konfigurasi_tempat_duduk": "2-2 Reclining & Revolving",
+          "panjang_bodi_mm": 20000,
+          "berat_kosong_ton": 38,
+          "kecepatan_maksimal_kmh": 120,
+          "material_bodi": "Stainless Steel (SUS 301L)"
+        },
+        "fasilitas": "Pintu otomatis elektrik, PIDS display LED, legroom ekstra, port USB Type-C & Type-A",
+        "peran": "Layanan Kereta Eksekutif Jarak Jauh Komersial",
+        "harga_pengadaan_idr": 7500000000
+      },
+      {
+        "kode_seri": "K1_Luxury",
+        "nama_tipe": "Kereta Luxury / Sleeper New Generation",
+        "pabrikan": "PT INKA (Persero)",
+        "susunan_bogie": "TB-398 / Bolsterless",
+        "spesifikasi": {
+          "kapasitas_kursi": 26,
+          "konfigurasi_tempat_duduk": "1-2 Reclining 140-170 Derajat",
+          "panjang_bodi_mm": 20000,
+          "berat_kosong_ton": 40,
+          "kecepatan_maksimal_kmh": 120,
+          "material_bodi": "Stainless Steel"
+        },
+        "fasilitas": "Layar hiburan AVOD sentuh, kursi pijat elektrik, minibar gratis, partisi privasi",
+        "peran": "Layanan Penumpang Kelas Tertinggi (Luxury / Sleeper)",
+        "harga_pengadaan_idr": 11000000000
+      },
+      {
+        "kode_seri": "K2",
+        "nama_tipe": "Kereta Bisnis Baja Ringan (Mild Steel)",
+        "pabrikan": "PT INKA (Persero)",
+        "susunan_bogie": "NT-11 / K5",
+        "spesifikasi": {
+          "kapasitas_kursi": 64,
+          "konfigurasi_tempat_duduk": "2-2 Reversible",
+          "panjang_bodi_mm": 20000,
+          "berat_kosong_ton": 36,
+          "kecepatan_maksimal_kmh": 100,
+          "material_bodi": "Mild Steel"
+        },
+        "fasilitas": "AC split/sentral, toilet jongkok/duduk, kursi putar manual",
+        "peran": "Layanan Kelas Bisnis / Cadangan Tambahan",
+        "harga_pengadaan_idr": 4500000000
+      },
+      {
+        "kode_seri": "K3_NG",
+        "nama_tipe": "Kereta Ekonomi New Generation",
+        "pabrikan": "PT INKA (Persero) / Modifikasi Balai Yasa Manggarai",
+        "susunan_bogie": "TB-398 / K5",
+        "spesifikasi": {
+          "kapasitas_kursi": 72,
+          "konfigurasi_tempat_duduk": "2-2 Individual Reclining Seat",
+          "panjang_bodi_mm": 20000,
+          "berat_kosong_ton": 37,
+          "kecepatan_maksimal_kmh": 120,
+          "material_bodi": "Stainless Steel / Mild Steel Rekondisi"
+        },
+        "fasilitas": "Kursi searah laju KA (bisa diputar), legroom lega, toilet ramah difabel, layar informasi digital",
+        "peran": "Layanan Kereta Ekonomi Jarak Jauh Modern",
+        "harga_pengadaan_idr": 6200000000
+      }
+    ],
+    "kereta_pendukung_dan_layanan": [
+      {
+        "kode_seri": "M",
+        "nama_tipe": "Kereta Makan (Dining Car)",
+        "pabrikan": "PT INKA (Persero)",
+        "susunan_bogie": "TB-398 / K5",
+        "spesifikasi": {
+          "kapasitas_kursi": 32,
+          "konfigurasi_tempat_duduk": "Meja Restorasi & Booth Bar",
+          "panjang_bodi_mm": 20000,
+          "berat_kosong_ton": 40,
+          "kecepatan_maksimal_kmh": 120,
+          "material_bodi": "Stainless Steel"
+        },
+        "fasilitas": "Dapur higienis, microwave, chiller, chiller display kasir, mushola onboard",
+        "peran": "Layanan Kuliner dan Restorasi di Rangkaian Penumpang",
+        "harga_pengadaan_idr": 7200000000
+      },
+      {
+        "kode_seri": "P",
+        "nama_tipe": "Kereta Pembangkit Daya (Power Car)",
+        "pabrikan": "PT INKA (Persero)",
+        "susunan_bogie": "NT-11 / K5",
+        "spesifikasi": {
+          "kapasitas_daya_genset_kva": 500,
+          "jumlah_genset": 2,
+          "panjang_bodi_mm": 20000,
+          "berat_kosong_ton": 45,
+          "kecepatan_maksimal_kmh": 120,
+          "material_bodi": "Stainless Steel / Mild Steel"
+        },
+        "fasilitas": "Kompartemen genset diesel terisolasi suara, panel distribusi sinkronisasi 3 fasa 380V, tangki BBM internal",
+        "peran": "Pemasok Listrik AC, Lampu, dan Pompa Seluruh Gerbong Rangkaian",
+        "harga_pengadaan_idr": 8500000000
+      },
+      {
+        "kode_seri": "B",
+        "nama_tipe": "Kereta Bagasi (Baggage Car)",
+        "pabrikan": "PT INKA (Persero)",
+        "susunan_bogie": "K5",
+        "spesifikasi": {
+          "kapasitas_muat_ton": 20,
+          "volume_kargo_m3": 70,
+          "panjang_bodi_mm": 20000,
+          "berat_kosong_ton": 30,
+          "kecepatan_maksimal_kmh": 120,
+          "material_bodi": "Baja Stainless / Mild Steel"
+        },
+        "fasilitas": "Pintu geser ganda lebar, ruang kantor kondektur kargo, lantai bordes plat baja tahan gesek",
+        "peran": "Angkutan Logistik KAI Logistik (Kalog), Paket Kilat, Sepeda Motor",
+        "harga_pengadaan_idr": 4800000000
+      }
+    ],
+    "gerbong_barang_dan_kargo": [
+      {
+        "kode_seri": "GD / PPCW",
+        "nama_tipe": "Gerbong Datar Petikemas (Flat Car)",
+        "pabrikan": "PT INKA (Persero)",
+        "susunan_bogie": "Ride Control / Barber Bogie (2 Gandar per Bogie)",
+        "spesifikasi": {
+          "kapasitas_muat_ton": 54,
+          "ukuran_kargo_ft": "2x 20 ft atau 1x 40 ft Container",
+          "panjang_chassis_mm": 13700,
+          "berat_kosong_ton": 16,
+          "kecepatan_maksimal_kmh": 90,
+          "material_bodi": "Baja Konstruksi Corten High-Tensile"
+        },
+        "fasilitas": "Twist lock otomatis petikemas, sistem rem udara tekan Westinghouse",
+        "peran": "Angkutan Logistik Petikemas Jalur Utara & Jalur Selatan",
+        "harga_pengadaan_idr": 750000000
+      },
+      {
+        "kode_seri": "GB / KKBW",
+        "nama_tipe": "Gerbong Terbuka Curah Batubara (Open Gondola Car)",
+        "pabrikan": "PT INKA / Astra Infrastructure",
+        "susunan_bogie": "Ride Control Bogie Tonase Gandar 18 Ton",
+        "spesifikasi": {
+          "kapasitas_muat_ton": 50,
+          "volume_muat_m3": 45,
+          "panjang_chassis_mm": 12500,
+          "berat_kosong_ton": 18,
+          "kecepatan_maksimal_kmh": 80,
+          "material_bodi": "Baja Corten Tahan Abrasi & Korosi"
+        },
+        "fasilitas": "Kompatibel rotary car dumper (rotasi bongkar otomatis tanpa lepas sambungan coupler)",
+        "peran": "Angkutan Kereta Batubara Rangkaian Panjang (Babaranjang) Sumatera",
+        "harga_pengadaan_idr": 850000000
+      },
+      {
+        "kode_seri": "GK / KKW",
+        "nama_tipe": "Gerbong Ketel Tangki Cairan (Tank Car)",
+        "pabrikan": "PT INKA (Persero)",
+        "susunan_bogie": "Bogie K5 / Ride Control",
+        "spesifikasi": {
+          "kapasitas_volume_liter": 40000,
+          "kapasitas_muat_ton": 42,
+          "panjang_chassis_mm": 12000,
+          "berat_kosong_ton": 18,
+          "kecepatan_maksimal_kmh": 80,
+          "material_bodi": "Baja Karbon Silinder Berisolasi"
+        },
+        "fasilitas": "Katup pelepasan darurat bawah, manhole pengisian atas bertekanan, grounding pembuangan statis",
+        "peran": "Angkutan Bahan Bakar Minyak (BBM Pertamina) & Minyak Mentah",
+        "harga_pengadaan_idr": 920000000
+      },
+      {
+        "kode_seri": "GG / TTW",
+        "nama_tipe": "Gerbong Tertutup Semen & Pupuk (Box Covered Wagon)",
+        "pabrikan": "PT INKA (Persero)",
+        "susunan_bogie": "Bogie Ride Control",
+        "spesifikasi": {
+          "kapasitas_muat_ton": 45,
+          "volume_muat_m3": 55,
+          "panjang_chassis_mm": 12800,
+          "berat_kosong_ton": 17,
+          "kecepatan_maksimal_kmh": 80,
+          "material_bodi": "Baja Struktural Tertutup Anti-Cuaca"
+        },
+        "fasilitas": "Pintu geser tahan cuaca samping kedap rembesan air, lantai anti licin",
+        "peran": "Angkutan Semen Sak, Pupuk Curah Karungan, Bahan Kimia Kering",
+        "harga_pengadaan_idr": 800000000
+      }
+    ],
+    "gerbong_kerja_dan_dinasan_khusus": [
+      {
+        "kode_seri": "ZZW",
+        "nama_tipe": "Gerbong Curah Balas / Kricak (Ballast Hopper Car)",
+        "pabrikan": "PT INKA (Persero)",
+        "susunan_bogie": "Bogie K3 / K5",
+        "spesifikasi": {
+          "kapasitas_muat_ton": 35,
+          "volume_muat_m3": 25,
+          "panjang_chassis_mm": 10500,
+          "berat_kosong_ton": 15,
+          "kecepatan_maksimal_kmh": 70,
+          "material_bodi": "Pelat Baja Cor Tahan Benturan Kricak"
+        },
+        "fasilitas": "Pintu corong bawah manual berpenahan rotasi, saluran buang kiri, tengah, kanan jalan rel",
+        "peran": "Penabur Batu Balas Kricak untuk Perawatan dan Peninggian Rel",
+        "harga_pengadaan_idr": 650000000
+      },
+      {
+        "kode_seri": "SN / NR",
+        "nama_tipe": "Gerbong Penolong Evakuasi (Breakdown Rescue Wagon)",
+        "pabrikan": "Modifikasi Balai Yasa KAI",
+        "susunan_bogie": "NT-11",
+        "spesifikasi": {
+          "kapasitas_ruang_perkakas_ton": 20,
+          "panjang_bodi_mm": 20000,
+          "berat_kosong_ton": 35,
+          "kecepatan_maksimal_kmh": 100,
+          "material_bodi": "Mild Steel"
+        },
+        "fasilitas": "Dongkrak hidrolik re-railing Lukas, tabung las blender, lampu sorot tower darurat, ranjang medis evakuasi",
+        "peran": "Gerbong Bengkel Berjalan Siaga Evakuasi Anjlokan di Setiap Dipo Traksi",
+        "harga_pengadaan_idr": 3200000000
+      }
+    ]
+  }
+}

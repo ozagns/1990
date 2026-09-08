@@ -1,7 +1,4 @@
 {
-  "operator": "PT Kereta Api Indonesia (Persero) & Balai Pengujian Perkeretaapian",
-  "lebar_sepur_mm": 1067,
-  "mata_uang": "IDR",
   "kategori_armada": {
     "lokomotif_layanan_utama": [
       {

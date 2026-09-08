@@ -1,57 +1,145 @@
 [
   {
     "nama": "Alphard Hybrid",
+    "kategori": "Luxury MPV",
     "harga": "1.652.100.000",
-    "seat": "7"
+    "seat": 7,
+    "kapasitas_mesin": "2.487 cc",
+    "tipe_mesin": "A25A-FXS 4-Silinder DOHC Dual VVT-i Hybrid",
+    "tenaga_maksimum": "190 PS (Kombinasi hingga 250 PS)",
+    "torsi_maksimum": "236 Nm",
+    "transmisi": "e-CVT",
+    "penggerak": "FWD",
+    "bahan_bakar": "Bensin Hybrid"
   },
   {
     "nama": "Alphard XE",
+    "kategori": "Luxury MPV",
     "harga": "1.288.000.000",
-    "seat": "7"
+    "seat": 7,
+    "kapasitas_mesin": "2.494 cc",
+    "tipe_mesin": "2AR-FE 4-Silinder DOHC Dual VVT-i",
+    "tenaga_maksimum": "182 PS",
+    "torsi_maksimum": "235 Nm",
+    "transmisi": "Super CVT-i",
+    "penggerak": "FWD",
+    "bahan_bakar": "Bensin"
   },
   {
     "nama": "Alphard XE Hybrid",
+    "kategori": "Luxury MPV",
     "harga": "1.388.000.000",
-    "seat": "7"
+    "seat": 7,
+    "kapasitas_mesin": "2.487 cc",
+    "tipe_mesin": "A25A-FXS 4-Silinder DOHC Dual VVT-i Hybrid",
+    "tenaga_maksimum": "190 PS (Kombinasi hingga 250 PS)",
+    "torsi_maksimum": "236 Nm",
+    "transmisi": "e-CVT",
+    "penggerak": "FWD",
+    "bahan_bakar": "Bensin Hybrid"
   },
   {
     "nama": "Avanza",
+    "kategori": "Low MPV",
     "harga": "244.200.000",
-    "seat": "7"
+    "seat": 7,
+    "kapasitas_mesin": "1.329 cc",
+    "tipe_mesin": "1NR-VE 4-Silinder DOHC Dual VVT-i",
+    "tenaga_maksimum": "98 PS",
+    "torsi_maksimum": "122 Nm",
+    "transmisi": "Manual 5-Speed",
+    "penggerak": "FWD",
+    "bahan_bakar": "Bensin"
   },
   {
     "nama": "Calya",
+    "kategori": "LCGC MPV",
     "harga": "170.700.000",
-    "seat": "7"
+    "seat": 7,
+    "kapasitas_mesin": "1.197 cc",
+    "tipe_mesin": "3NR-VE 4-Silinder DOHC Dual VVT-i",
+    "tenaga_maksimum": "88 PS",
+    "torsi_maksimum": "108 Nm",
+    "transmisi": "Manual 5-Speed",
+    "penggerak": "FWD",
+    "bahan_bakar": "Bensin"
   },
   {
     "nama": "Innova",
+    "kategori": "Medium MPV",
     "harga": "417.800.000",
-    "seat": "7"
+    "seat": 7,
+    "kapasitas_mesin": "2.393 cc",
+    "tipe_mesin": "2GD-FTV 4-Silinder DOHC Turbo Diesel",
+    "tenaga_maksimum": "149 PS",
+    "torsi_maksimum": "360 Nm",
+    "transmisi": "Otomatis 6-Speed",
+    "penggerak": "RWD",
+    "bahan_bakar": "Diesel"
   },
   {
     "nama": "Innova Zenix",
+    "kategori": "Medium MPV",
     "harga": "437.700.000",
-    "seat": "7"
+    "seat": 7,
+    "kapasitas_mesin": "1.987 cc",
+    "tipe_mesin": "M20A-FKS 4-Silinder DOHC Dual VVT-i",
+    "tenaga_maksimum": "174 PS",
+    "torsi_maksimum": "205 Nm",
+    "transmisi": "Direct Shift-CVT 10-Speed",
+    "penggerak": "FWD",
+    "bahan_bakar": "Bensin"
   },
   {
     "nama": "Innova Zenix Hybrid",
+    "kategori": "Medium MPV",
     "harga": "475.400.000",
-    "seat": "7"
+    "seat": 7,
+    "kapasitas_mesin": "1.987 cc",
+    "tipe_mesin": "M20A-FXS 4-Silinder Dual VVT-i Hybrid",
+    "tenaga_maksimum": "152 PS (Kombinasi Motor Listrik 186 PS)",
+    "torsi_maksimum": "187 Nm (Motor Listrik 206 Nm)",
+    "transmisi": "e-CVT",
+    "penggerak": "FWD",
+    "bahan_bakar": "Bensin Hybrid"
   },
   {
     "nama": "Vellfire Hybrid",
+    "kategori": "Luxury MPV",
     "harga": "1.872.800.000",
-    "seat": "7"
+    "seat": 7,
+    "kapasitas_mesin": "2.487 cc",
+    "tipe_mesin": "A25A-FXS 4-Silinder DOHC Dual VVT-i Hybrid",
+    "tenaga_maksimum": "190 PS (Kombinasi hingga 250 PS)",
+    "torsi_maksimum": "236 Nm",
+    "transmisi": "e-CVT",
+    "penggerak": "FWD",
+    "bahan_bakar": "Bensin Hybrid"
   },
   {
     "nama": "Veloz Hybrid",
+    "kategori": "Low MPV",
     "harga": "303.000.000",
-    "seat": "7"
+    "seat": 7,
+    "kapasitas_mesin": "1.496 cc",
+    "tipe_mesin": "2NR-VEX 4-Silinder DOHC Dual VVT-i Hybrid",
+    "tenaga_maksimum": "91 PS (Motor Listrik 80 PS)",
+    "torsi_maksimum": "121 Nm (Motor Listrik 141 Nm)",
+    "transmisi": "e-CVT",
+    "penggerak": "FWD",
+    "bahan_bakar": "Bensin Hybrid"
   },
   {
     "nama": "Voxy",
+    "kategori": "Boxy MPV",
     "harga": "632.700.000",
-    "seat": "7"
+    "seat": 7,
+    "kapasitas_mesin": "1.986 cc",
+    "tipe_mesin": "M20A-FKS 4-Silinder DOHC Dual VVT-i",
+    "tenaga_maksimum": "170 PS",
+    "torsi_maksimum": "202 Nm",
+    "transmisi": "Direct Shift-CVT",
+    "penggerak": "FWD",
+    "bahan_bakar": "Bensin"
   }
 ]

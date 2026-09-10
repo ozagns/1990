@@ -1,0 +1,74 @@
+[
+  {
+    "nama_bodi": "Jetbus 5 SDD",
+    "kategori": "Bus",
+    "keunggulan": "Kapasitas penumpang terbesar dengan konsep bus tingkat dua lantai yang memadukan kemewahan dan keselamatan menyeluruh.",
+    "img": "https://user.uploads.dev/file/3ca862a14d5c9938c47a1ec104afa31e.webp"
+  },
+  {
+    "nama_bodi": "Jetbus 5 UHD",
+    "kategori": "Bus",
+    "keunggulan": "Memaksimalkan kursi penumpang di dek atas dengan ruang bagasi kargo tembus bervolume paling besar di kelasnya.",
+    "img": "https://user.uploads.dev/file/f54fb66729306651c0eed912a178c4d6.webp"
+  },
+  {
+    "nama_bodi": "Jetbus 5 SHD",
+    "kategori": "Bus",
+    "keunggulan": "Kaca ganda ekstra lebar memberikan visibilitas maksimal bagi penumpang serta ruang bagasi bawah yang tinggi dan luas.",
+    "img": "https://user.uploads.dev/file/f2eba16052de9ff9cd8a8ba37e37eaa4.webp"
+  },
+  {
+    "nama_bodi": "Jetbus 5 Unicoach",
+    "kategori": "Bus",
+    "keunggulan": "Inovasi kabin tiga kelas terintegrasi yang memadukan front row seating, kelas eksekutif, dan sleeper 2-1 dalam satu unit bus.",
+    "img": "https://user.uploads.dev/file/14b2c6a442f58ab5639042babe63d89e.webp"
+  },
+  {
+    "nama_bodi": "Jetbus 5 Dream Coach",
+    "kategori": "Bus",
+    "keunggulan": "Kabin kapsul tidur bertingkat dua level yang menawarkan privasi penuh dan kemewahan fasilitas mandiri bagi tiap penumpang.",
+    "img": "https://user.uploads.dev/file/44cf573d866bc7f10822caffcb5b1d5c.webp"
+  },
+  {
+    "nama_bodi": "Jetbus 5 DCXL",
+    "kategori": "Bus",
+    "keunggulan": "Konsep bus sleeper mewah dengan konfigurasi kursi tidur 2-1 ekstra lapang untuk kenyamanan istirahat optimal.",
+    "img": "https://user.uploads.dev/file/7ae23c1e3dacc08cec2797ec7c2ee60a.webp"
+  },
+  {
+    "nama_bodi": "Jetbus 5 MHD",
+    "kategori": "Bus",
+    "keunggulan": "Proporsi bodi kelas 12 meter yang seimbang antara kapasitas penumpang, bagasi, dan kompatibilitas sasis ladder frame.",
+    "img": "https://user.uploads.dev/file/8d8df42cd0b252612ebfc47941380807.webp"
+  },
+  {
+    "nama_bodi": "Jetbus 5 MD",
+    "kategori": "Bus",
+    "keunggulan": "Dimensi medium bus yang lincah bermanuver di berbagai medan jalan dengan kapasitas bagasi yang tetap maksimal.",
+    "img": "https://user.uploads.dev/file/bc858132b90359a5c5a1593daf18b800.webp"
+  },
+  {
+    "nama_bodi": "Jetbus 5 Big Benz",
+    "kategori": "Minibus",
+    "keunggulan": "Desain microbus bergaya Eropa yang mengutamakan kenyamanan suspensi kabin, keamanan berkendara, dan tampilan elegan.",
+    "img": "https://user.uploads.dev/file/feed4227bd41eb763c16b7cf6a3637fa.webp"
+  },
+  {
+    "nama_bodi": "Jetbus 5 Big Jumbo",
+    "kategori": "Minibus",
+    "keunggulan": "Kelas perantara antara bus medium dan mikrobus dengan muatan penumpang serta volume bagasi belakang yang paling maksimal.",
+    "img": "https://user.uploads.dev/file/d756897ba83a5622a9ce8d6caf229568.webp"
+  },
+  {
+    "nama_bodi": "Jetbus 5 Jumbo",
+    "kategori": "Minibus",
+    "keunggulan": "Microbus legendaris dengan daya tampung kursi penumpang paling banyak dan daya tahan bodi yang teruji awet.",
+    "img": "https://user.uploads.dev/file/79b99412e3009246eb5bf5d786cffd79.webp"
+  },
+  {
+    "nama_bodi": "Jetbus 5 MC",
+    "kategori": "Minibus",
+    "keunggulan": "Dimensi paling ringkas dan lincah melintasi jalan sempit dengan rancangan interior yang memaksimalkan jumlah tempat duduk.",
+    "img": "https://user.uploads.dev/file/d3207a195531147c46cf23cd37e98c87.webp"
+  }
+]

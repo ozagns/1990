@@ -1,62 +1,962 @@
 [
   {
-    "tempat": "Candi Ijo",
-    "koor": "-7.775705536450292, 110.49730848681729"
+    "tempat": "Keraton Ngayogyakarta Hadiningrat",
+    "koor": "-7.805284, 110.364203"
   },
   {
-    "tempat": "Candi Kalasan",
-    "koor": "-7.767122068439844, 110.47231355868985"
+    "tempat": "Taman Sari",
+    "koor": "-7.809935, 110.359239"
   },
   {
-    "tempat": "Candi Prambanan",
-    "koor": "-7.752104163914746, 110.49146494572773"
+    "tempat": "Alun-Alun Kidul (Alkid)",
+    "koor": "-7.811806, 110.363194"
   },
   {
-    "tempat": "Candi Ratu Boko",
-    "koor": "-7.7694173674270885, 110.48846490589489"
+    "tempat": "Alun-Alun Lor",
+    "koor": "-7.803611, 110.364722"
+  },
+  {
+    "tempat": "Jalan Malioboro",
+    "koor": "-7.792582, 110.365849"
+  },
+  {
+    "tempat": "Benteng Vredeburg",
+    "koor": "-7.800262, 110.366299"
+  },
+  {
+    "tempat": "Titik Nol Kilometer Yogyakarta",
+    "koor": "-7.801194, 110.364917"
+  },
+  {
+    "tempat": "Tugu Pal Putih (Tugu Jogja)",
+    "koor": "-7.782894, 110.367072"
+  },
+  {
+    "tempat": "Taman Pintar Yogyakarta",
+    "koor": "-7.800556, 110.367778"
+  },
+  {
+    "tempat": "Museum Sonobudoyo Unit I",
+    "koor": "-7.802500, 110.363889"
+  },
+  {
+    "tempat": "Museum Sonobudoyo Unit II",
+    "koor": "-7.801667, 110.366667"
+  },
+  {
+    "tempat": "Pasar Beringharjo",
+    "koor": "-7.798611, 110.366111"
+  },
+  {
+    "tempat": "Kampung Wisata Tamansari",
+    "koor": "-7.810556, 110.358333"
   },
   {
     "tempat": "Gembira Loka Zoo",
-    "koor": "-7.803998021935083, 110.39809531705421"
+    "koor": "-7.804167, 110.397222"
   },
   {
-    "tempat": "HeHa Forest",
-    "koor": "-7.62627926854412, 110.42450092087239"
+    "tempat": "Museum De Mata & De Arca (XT Square)",
+    "koor": "-7.818889, 110.385556"
   },
   {
-    "tempat": "HeHa Ocean View",
-    "koor": "-8.105760995895366, 110.46143522841042"
+    "tempat": "Situs Warungboto",
+    "koor": "-7.811667, 110.392778"
   },
   {
-    "tempat": "HeHa Sky View",
-    "koor": "-7.849636725645401, 110.47793645454216"
+    "tempat": "Kampung Wisata Sosrowijayan",
+    "koor": "-7.791667, 110.363889"
   },
   {
-    "tempat": "Kampung Wisata Taman Sari",
-    "koor": "-7.810049473307579, 110.3592828036837"
+    "tempat": "Museum Biologi UGM",
+    "koor": "-7.800833, 110.373611"
   },
   {
-    "tempat": "Malioboro",
-    "koor": "-7.792647616257413, 110.36582670141354"
+    "tempat": "Museum Sasana Wiratama (Monumen Pangeran Diponegoro)",
+    "koor": "-7.787222, 110.354167"
   },
   {
-    "tempat": "Museum Benteng Vredeburg",
-    "koor": "-7.800337655901742, 110.36612826722556"
+    "tempat": "Museum Perjuangan Yogyakarta",
+    "koor": "-7.818611, 110.369722"
   },
   {
-    "tempat": "Obelix Hills",
-    "koor": "-7.806300600776741, 110.51873615638972"
+    "tempat": "Kotagede Heritage District",
+    "koor": "-7.828611, 110.399722"
   },
   {
-    "tempat": "Taman Pintar",
-    "koor": "-7.800874202510821, 110.36735114571232"
+    "tempat": "Makam Raja-Raja Mataram Kotagede",
+    "koor": "-7.829444, 110.398611"
+  },
+  {
+    "tempat": "Pojok Beteng Wetan",
+    "koor": "-7.816389, 110.370278"
+  },
+  {
+    "tempat": "Pojok Beteng Kulon",
+    "koor": "-7.816667, 110.358611"
+  },
+  {
+    "tempat": "Plengkung Gading (Nirbaya)",
+    "koor": "-7.814444, 110.363056"
+  },
+  {
+    "tempat": "Museum Sandi Yogyakarta",
+    "koor": "-7.784444, 110.370833"
+  },
+  {
+    "tempat": "Taman Budaya Yogyakarta (TBY)",
+    "koor": "-7.800000, 110.367500"
+  },
+  {
+    "tempat": "Museum Affandi",
+    "koor": "-7.782778, 110.396389"
+  },
+  {
+    "tempat": "Candi Prambanan",
+    "koor": "-7.752021, 110.491467"
+  },
+  {
+    "tempat": "Candi Ratu Boko",
+    "koor": "-7.770542, 110.489422"
+  },
+  {
+    "tempat": "Candi Kalasan",
+    "koor": "-7.767222, 110.472778"
+  },
+  {
+    "tempat": "Candi Sari",
+    "koor": "-7.761389, 110.474444"
+  },
+  {
+    "tempat": "Candi Sambisari",
+    "koor": "-7.762500, 110.447222"
+  },
+  {
+    "tempat": "Candi Ijo",
+    "koor": "-7.783889, 110.511944"
+  },
+  {
+    "tempat": "Candi Barong",
+    "koor": "-7.776667, 110.496944"
+  },
+  {
+    "tempat": "Candi Banyunibo",
+    "koor": "-7.778889, 110.493889"
+  },
+  {
+    "tempat": "Candi Gebang",
+    "koor": "-7.751667, 110.410278"
+  },
+  {
+    "tempat": "Candi Abang",
+    "koor": "-7.809167, 110.471389"
+  },
+  {
+    "tempat": "Candi Morangan",
+    "koor": "-7.712500, 110.474167"
+  },
+  {
+    "tempat": "Candi Palgading",
+    "koor": "-7.714444, 110.411667"
+  },
+  {
+    "tempat": "Candi Kedulan",
+    "koor": "-7.746111, 110.468889"
   },
   {
     "tempat": "Tebing Breksi",
-    "koor": "-7.781588322241008, 110.50471264860779"
+    "koor": "-7.781667, 110.504722"
   },
   {
-    "tempat": "Tugu Jogja",
-    "koor": "-7.782943825751951, 110.36709181337875"
+    "tempat": "Obelix Hills",
+    "koor": "-7.794167, 110.518611"
+  },
+  {
+    "tempat": "Spot Riyadi",
+    "koor": "-7.772500, 110.499444"
+  },
+  {
+    "tempat": "Museum Ullen Sentalu",
+    "koor": "-7.598611, 110.423333"
+  },
+  {
+    "tempat": "Museum Gunungapi Merapi (MGM)",
+    "koor": "-7.615833, 110.424444"
+  },
+  {
+    "tempat": "Bunker Kaliadem",
+    "koor": "-7.583333, 110.446667"
+  },
+  {
+    "tempat": "Batu Alien Cangkringan",
+    "koor": "-7.596944, 110.449722"
+  },
+  {
+    "tempat": "Museum Petilasan Mbah Maridjan",
+    "koor": "-7.578611, 110.448056"
+  },
+  {
+    "tempat": "The Lost World Castle",
+    "koor": "-7.599722, 110.450278"
+  },
+  {
+    "tempat": "Merapi Park (The World Landmarks)",
+    "koor": "-7.616667, 110.423056"
+  },
+  {
+    "tempat": "Taman Wisata Kaliurang",
+    "koor": "-7.596667, 110.428611"
+  },
+  {
+    "tempat": "Gua Jepang Kaliurang",
+    "koor": "-7.587222, 110.432500"
+  },
+  {
+    "tempat": "Plunyon Kalikuning",
+    "koor": "-7.601389, 110.439722"
+  },
+  {
+    "tempat": "Agrowisata Bhumi Merapi",
+    "koor": "-7.636667, 110.424167"
+  },
+  {
+    "tempat": "Ledok Sambi Ecopark",
+    "koor": "-7.643056, 110.435278"
+  },
+  {
+    "tempat": "Lava Tour Merapi (Start Point Kaliurang)",
+    "koor": "-7.604722, 110.424444"
+  },
+  {
+    "tempat": "Monumen Yogya Kembali (Monjali)",
+    "koor": "-7.749167, 110.369722"
+  },
+  {
+    "tempat": "Sindukusuma Edupark (SKE)",
+    "koor": "-7.767500, 110.354722"
+  },
+  {
+    "tempat": "Studio Alam Gamplong",
+    "koor": "-7.818889, 110.239722"
+  },
+  {
+    "tempat": "Blue Lagoon Jogja (Sendang Tirto Budi)",
+    "koor": "-7.708889, 110.451944"
+  },
+  {
+    "tempat": "Museum Dirgantara Mandala (Museum TNI AU)",
+    "koor": "-7.788611, 110.418889"
+  },
+  {
+    "tempat": "Museum Geoteknologi Mineral UPN",
+    "koor": "-7.774444, 110.407222"
+  },
+  {
+    "tempat": "Desa Wisata Pentingsari",
+    "koor": "-7.632778, 110.428889"
+  },
+  {
+    "tempat": "Desa Wisata Pulesari",
+    "koor": "-7.643333, 110.366389"
+  },
+  {
+    "tempat": "Desa Wisata Ketingan (Burung Kuntul)",
+    "koor": "-7.726944, 110.345833"
+  },
+  {
+    "tempat": "Desa Wisata Brayut",
+    "koor": "-7.705833, 110.369444"
+  },
+  {
+    "tempat": "Desa Wisata Kelor",
+    "koor": "-7.653611, 110.384722"
+  },
+  {
+    "tempat": "Glagah Pari Ecopark",
+    "koor": "-7.671111, 110.423889"
+  },
+  {
+    "tempat": "Embung Senja Tirtoadi",
+    "koor": "-7.737222, 110.334167"
+  },
+  {
+    "tempat": "Museum Rumah Dome (Teletubbies) Nglepen",
+    "koor": "-7.818056, 110.501944"
+  },
+  {
+    "tempat": "Pantai Parangtritis",
+    "koor": "-8.025547, 110.318825"
+  },
+  {
+    "tempat": "Pantai Parangkusumo",
+    "koor": "-8.020833, 110.320833"
+  },
+  {
+    "tempat": "Gumuk Pasir Parangkusumo",
+    "koor": "-8.016391, 110.316499"
+  },
+  {
+    "tempat": "Pantai Depok & Pasar Ikan",
+    "koor": "-8.014444, 110.292500"
+  },
+  {
+    "tempat": "Pantai Pelangi Bantul",
+    "koor": "-8.018611, 110.312500"
+  },
+  {
+    "tempat": "Pantai Cemara Sewu Bantul",
+    "koor": "-8.016667, 110.309722"
+  },
+  {
+    "tempat": "Pantai Barchan",
+    "koor": "-8.015278, 110.303889"
+  },
+  {
+    "tempat": "Pantai Samas",
+    "koor": "-7.994444, 110.264444"
+  },
+  {
+    "tempat": "Pantai Patehan",
+    "koor": "-7.995833, 110.256944"
+  },
+  {
+    "tempat": "Pantai Goa Cemara",
+    "koor": "-7.996944, 110.248611"
+  },
+  {
+    "tempat": "Pantai Cangkring",
+    "koor": "-7.996111, 110.241667"
+  },
+  {
+    "tempat": "Pantai Kuwaru",
+    "koor": "-7.994722, 110.230556"
+  },
+  {
+    "tempat": "Pantai Baru Bantul",
+    "koor": "-7.986111, 110.210556"
+  },
+  {
+    "tempat": "Pantai Pandansimo",
+    "koor": "-7.978611, 110.201667"
+  },
+  {
+    "tempat": "Hutan Pinus Mangunan",
+    "koor": "-7.929871, 110.431289"
+  },
+  {
+    "tempat": "Puncak Becici",
+    "koor": "-7.915849, 110.443598"
+  },
+  {
+    "tempat": "Pinus Pengger",
+    "koor": "-7.882500, 110.457222"
+  },
+  {
+    "tempat": "Jurang Tembelan Kanigoro",
+    "koor": "-7.940556, 110.434444"
+  },
+  {
+    "tempat": "Kebun Buah Mangunan",
+    "koor": "-7.935278, 110.424444"
+  },
+  {
+    "tempat": "Bukit Panguk Kediwung",
+    "koor": "-7.946111, 110.441944"
+  },
+  {
+    "tempat": "Bukit Mojo Gumelem",
+    "koor": "-7.940278, 110.438889"
+  },
+  {
+    "tempat": "Hutan Pinus Asri Karangasem",
+    "koor": "-7.926111, 110.433889"
+  },
+  {
+    "tempat": "Seribu Batu Songgo Langit",
+    "koor": "-7.922222, 110.436111"
+  },
+  {
+    "tempat": "Watu Goyang",
+    "koor": "-7.920833, 110.432500"
+  },
+  {
+    "tempat": "Pintu Langit Dahromo",
+    "koor": "-7.908333, 110.447222"
+  },
+  {
+    "tempat": "Puncak Bucu",
+    "koor": "-7.886389, 110.485278"
+  },
+  {
+    "tempat": "Puncak Sosok",
+    "koor": "-7.876111, 110.407222"
+  },
+  {
+    "tempat": "Potrobayan River Camp",
+    "koor": "-7.935278, 110.367778"
+  },
+  {
+    "tempat": "Grojogan Pucung",
+    "koor": "-7.893889, 110.413611"
+  },
+  {
+    "tempat": "Air Terjun Lepo Dlingo",
+    "koor": "-7.949167, 110.469722"
+  },
+  {
+    "tempat": "Makam Raja-Raja Imogiri",
+    "koor": "-7.919444, 110.395556"
+  },
+  {
+    "tempat": "Desa Wisata Kasongan (Gerabah)",
+    "koor": "-7.844444, 110.341111"
+  },
+  {
+    "tempat": "Desa Wisata Tembi",
+    "koor": "-7.868333, 110.360278"
+  },
+  {
+    "tempat": "Desa Wisata Manding (Kerajinan Kulit)",
+    "koor": "-7.886944, 110.361944"
+  },
+  {
+    "tempat": "Desa Wisata Kaki Langit Mangunan",
+    "koor": "-7.925833, 110.435278"
+  },
+  {
+    "tempat": "Goa Selarong",
+    "koor": "-7.867778, 110.320833"
+  },
+  {
+    "tempat": "Goa Cerme",
+    "koor": "-7.939722, 110.380278"
+  },
+  {
+    "tempat": "Museum Wayang Kekayon",
+    "koor": "-7.812222, 110.412778"
+  },
+  {
+    "tempat": "Pasar Seni Gabusan (PSG)",
+    "koor": "-7.876944, 110.358889"
+  },
+  {
+    "tempat": "Gereja Ganjuran (Gereja Hati Kudus Yesus)",
+    "koor": "-7.927222, 110.323889"
+  },
+  {
+    "tempat": "Gua Maria Jatiningsih (Sedayu)",
+    "koor": "-7.808889, 110.278889"
+  },
+  {
+    "tempat": "Bukit Bintang Patuk",
+    "koor": "-7.846667, 110.476111"
+  },
+  {
+    "tempat": "HeHa Sky View",
+    "koor": "-7.850556, 110.478889"
+  },
+  {
+    "tempat": "HeHa Ocean View",
+    "koor": "-8.053889, 110.463333"
+  },
+  {
+    "tempat": "Obelix Sea View",
+    "koor": "-8.037500, 110.334167"
+  },
+  {
+    "tempat": "Gunung Api Purba Nglanggeran",
+    "koor": "-7.872222, 110.543056"
+  },
+  {
+    "tempat": "Embung Nglanggeran",
+    "koor": "-7.864722, 110.539722"
+  },
+  {
+    "tempat": "Goa Pindul",
+    "koor": "-7.933333, 110.648056"
+  },
+  {
+    "tempat": "Goa Gelatik",
+    "koor": "-7.931944, 110.645556"
+  },
+  {
+    "tempat": "Goa Jomblang",
+    "koor": "-7.983056, 110.638056"
+  },
+  {
+    "tempat": "Goa Kalisuci (Cave Tubing)",
+    "koor": "-7.994722, 110.640278"
+  },
+  {
+    "tempat": "Goa Rancang Kencono",
+    "koor": "-7.940278, 110.493889"
+  },
+  {
+    "tempat": "Air Terjun Sri Gethuk Bleberan",
+    "koor": "-7.943056, 110.490556"
+  },
+  {
+    "tempat": "Pantai Baron",
+    "koor": "-8.128889, 110.548889"
+  },
+  {
+    "tempat": "Pantai Kukup",
+    "koor": "-8.134444, 110.554444"
+  },
+  {
+    "tempat": "Pantai Porok",
+    "koor": "-8.136111, 110.562778"
+  },
+  {
+    "tempat": "Pantai Kayu Arum",
+    "koor": "-8.135278, 110.560556"
+  },
+  {
+    "tempat": "Pantai Sepanjang",
+    "koor": "-8.137500, 110.565833"
+  },
+  {
+    "tempat": "Pantai Watu Kodok",
+    "koor": "-8.139722, 110.573889"
+  },
+  {
+    "tempat": "Pantai Sanglen",
+    "koor": "-8.140278, 110.575833"
+  },
+  {
+    "tempat": "Pantai Drini",
+    "koor": "-8.138889, 110.577778"
+  },
+  {
+    "tempat": "Pantai Ngrumput",
+    "koor": "-8.140833, 110.584722"
+  },
+  {
+    "tempat": "Bukit Kosakora",
+    "koor": "-8.141667, 110.587222"
+  },
+  {
+    "tempat": "Pantai Krakal",
+    "koor": "-8.145833, 110.598333"
+  },
+  {
+    "tempat": "Pantai Slili",
+    "koor": "-8.146667, 110.599722"
+  },
+  {
+    "tempat": "Pantai Nglimun",
+    "koor": "-8.146944, 110.601389"
+  },
+  {
+    "tempat": "Pantai Sadranan",
+    "koor": "-8.147222, 110.603056"
+  },
+  {
+    "tempat": "South Shore Gunungkidul",
+    "koor": "-8.147778, 110.604722"
+  },
+  {
+    "tempat": "Pantai Ngandong",
+    "koor": "-8.148889, 110.606944"
+  },
+  {
+    "tempat": "Pantai Sundak",
+    "koor": "-8.149167, 110.608333"
+  },
+  {
+    "tempat": "Pantai Somandeng",
+    "koor": "-8.150278, 110.610556"
+  },
+  {
+    "tempat": "Pantai Trenggole",
+    "koor": "-8.149444, 110.611667"
+  },
+  {
+    "tempat": "Pantai Indrayanti (Pulang Sawal)",
+    "koor": "-8.150493, 110.612502"
+  },
+  {
+    "tempat": "Pantai Goa Watulawang",
+    "koor": "-8.149722, 110.615278"
+  },
+  {
+    "tempat": "Pantai Seruni",
+    "koor": "-8.153889, 110.618611"
+  },
+  {
+    "tempat": "Pantai Pok Tunggal",
+    "koor": "-8.155833, 110.621944"
+  },
+  {
+    "tempat": "Pantai Watunene",
+    "koor": "-8.156944, 110.625556"
+  },
+  {
+    "tempat": "Pantai Timang (Gondola)",
+    "koor": "-8.175556, 110.663611"
+  },
+  {
+    "tempat": "Pantai Ngitun",
+    "koor": "-8.176944, 110.671944"
+  },
+  {
+    "tempat": "Pantai Jogan (Air Terjun Laut)",
+    "koor": "-8.179444, 110.677778"
+  },
+  {
+    "tempat": "Pantai Nglambor (Snorkeling)",
+    "koor": "-8.180278, 110.680556"
+  },
+  {
+    "tempat": "Pantai Siung",
+    "koor": "-8.181944, 110.683056"
+  },
+  {
+    "tempat": "Bukit Pengilon",
+    "koor": "-8.183889, 110.691944"
+  },
+  {
+    "tempat": "Pantai Ngungap",
+    "koor": "-8.185556, 110.697222"
+  },
+  {
+    "tempat": "Watu Lumbung Gunungkidul",
+    "koor": "-8.188889, 110.702778"
+  },
+  {
+    "tempat": "Pantai Clungup Gunungkidul",
+    "koor": "-8.187222, 110.703889"
+  },
+  {
+    "tempat": "Pantai Salut",
+    "koor": "-8.188889, 110.705556"
+  },
+  {
+    "tempat": "Pantai Wediombo",
+    "koor": "-8.183889, 110.707778"
+  },
+  {
+    "tempat": "Pantai Jungwok",
+    "koor": "-8.189444, 110.710278"
+  },
+  {
+    "tempat": "Pantai Greweng",
+    "koor": "-8.193056, 110.716389"
+  },
+  {
+    "tempat": "Pantai Sedahan",
+    "koor": "-8.192500, 110.718056"
+  },
+  {
+    "tempat": "Pantai Sadeng (Pelabuhan Nelayan)",
+    "koor": "-8.190278, 110.800556"
+  },
+  {
+    "tempat": "Pantai Krokoh",
+    "koor": "-8.193611, 110.835556"
+  },
+  {
+    "tempat": "Pantai Nampu Gunungkidul",
+    "koor": "-8.194722, 110.838889"
+  },
+  {
+    "tempat": "Pantai Bekah",
+    "koor": "-8.041667, 110.435278"
+  },
+  {
+    "tempat": "Pantai Midodaren Gunungkidul",
+    "koor": "-8.049444, 110.456944"
+  },
+  {
+    "tempat": "Puncak Segoro",
+    "koor": "-8.051944, 110.461111"
+  },
+  {
+    "tempat": "Pantai Ngluwen",
+    "koor": "-8.055833, 110.463889"
+  },
+  {
+    "tempat": "Pantai Grigak",
+    "koor": "-8.056944, 110.465278"
+  },
+  {
+    "tempat": "Embung Grigak",
+    "koor": "-8.057222, 110.466111"
+  },
+  {
+    "tempat": "Pantai Kesirat",
+    "koor": "-8.058333, 110.468889"
+  },
+  {
+    "tempat": "Pantai Mbirit",
+    "koor": "-8.061111, 110.481944"
+  },
+  {
+    "tempat": "Pantai Woh Songo",
+    "koor": "-8.061944, 110.483611"
+  },
+  {
+    "tempat": "Pantai Wohkudu",
+    "koor": "-8.062500, 110.485556"
+  },
+  {
+    "tempat": "Pantai Gesing",
+    "koor": "-8.064167, 110.499444"
+  },
+  {
+    "tempat": "Pantai Widodaren",
+    "koor": "-8.110556, 110.494722"
+  },
+  {
+    "tempat": "Pantai Ngedan (Ngeden)",
+    "koor": "-8.109722, 110.496944"
+  },
+  {
+    "tempat": "Pantai Peyuyon",
+    "koor": "-8.111111, 110.498889"
+  },
+  {
+    "tempat": "Pantai Butuh",
+    "koor": "-8.112500, 110.501944"
+  },
+  {
+    "tempat": "Pantai Nglangkap",
+    "koor": "-8.117222, 110.509722"
+  },
+  {
+    "tempat": "Pantai Ngrenehan",
+    "koor": "-8.118611, 110.511944"
+  },
+  {
+    "tempat": "Pantai Torohudan",
+    "koor": "-8.120556, 110.514722"
+  },
+  {
+    "tempat": "Pantai Dadap Ayam",
+    "koor": "-8.121389, 110.516944"
+  },
+  {
+    "tempat": "Pantai Ngobaran",
+    "koor": "-8.121944, 110.518611"
+  },
+  {
+    "tempat": "Pantai Nguyahan",
+    "koor": "-8.123056, 110.520556"
+  },
+  {
+    "tempat": "Telaga Biru Semin",
+    "koor": "-7.828889, 110.741944"
+  },
+  {
+    "tempat": "Telaga Jonge",
+    "koor": "-7.954722, 110.655833"
+  },
+  {
+    "tempat": "Lembah Karst Mulo",
+    "koor": "-8.016667, 110.598611"
+  },
+  {
+    "tempat": "Geosite Ngingrong",
+    "koor": "-8.021944, 110.605278"
+  },
+  {
+    "tempat": "Goa Braholo",
+    "koor": "-8.140556, 110.702778"
+  },
+  {
+    "tempat": "Goa Grengseng",
+    "koor": "-7.973889, 110.738889"
+  },
+  {
+    "tempat": "Goa Langse",
+    "koor": "-8.031944, 110.334722"
+  },
+  {
+    "tempat": "Gua Maria Tritis Paliyan",
+    "koor": "-8.038889, 110.551944"
+  },
+  {
+    "tempat": "Hutan Suaka Margasatwa Paliyan",
+    "koor": "-8.011667, 110.528889"
+  },
+  {
+    "tempat": "De Mangol View Patuk",
+    "koor": "-7.854722, 110.487222"
+  },
+  {
+    "tempat": "Hutan Wanagama",
+    "koor": "-7.901667, 110.528889"
+  },
+  {
+    "tempat": "Waduk Sermo",
+    "koor": "-7.828889, 110.121944"
+  },
+  {
+    "tempat": "Kalibiru Kulon Progo",
+    "koor": "-7.808056, 110.129722"
+  },
+  {
+    "tempat": "Pule Payung",
+    "koor": "-7.806667, 110.133889"
+  },
+  {
+    "tempat": "Canting Mas Puncak Dipowono",
+    "koor": "-7.803889, 110.134722"
+  },
+  {
+    "tempat": "Air Terjun Kedung Pedut",
+    "koor": "-7.771944, 110.131111"
+  },
+  {
+    "tempat": "Air Terjun Kembang Soka",
+    "koor": "-7.766389, 110.131944"
+  },
+  {
+    "tempat": "Air Terjun Grojogan Sewu Kulon Progo",
+    "koor": "-7.755833, 110.134722"
+  },
+  {
+    "tempat": "Air Terjun Curug Setawing",
+    "koor": "-7.764444, 110.126944"
+  },
+  {
+    "tempat": "Air Terjun Sungai Mudal (Ekowisata Sungai Mudal)",
+    "koor": "-7.761944, 110.133889"
+  },
+  {
+    "tempat": "Air Terjun Siluwok",
+    "koor": "-7.734722, 110.141944"
+  },
+  {
+    "tempat": "Air Terjun Sidoharjo (Perawan)",
+    "koor": "-7.674444, 110.183889"
+  },
+  {
+    "tempat": "Goa Kiskendo Kulon Progo",
+    "koor": "-7.747222, 110.137778"
+  },
+  {
+    "tempat": "Goa Kebon Krembangan",
+    "koor": "-7.834722, 110.170833"
+  },
+  {
+    "tempat": "Watu Tekek Kulon Progo",
+    "koor": "-7.730556, 110.138889"
+  },
+  {
+    "tempat": "Kebun Teh Nglinggo",
+    "koor": "-7.640278, 110.147778"
+  },
+  {
+    "tempat": "Kebun Teh Tritis",
+    "koor": "-7.643889, 110.141944"
+  },
+  {
+    "tempat": "Puncak Suroloyo",
+    "koor": "-7.653889, 110.181944"
+  },
+  {
+    "tempat": "Puncak Widosari",
+    "koor": "-7.681944, 110.161111"
+  },
+  {
+    "tempat": "Gunung Gajah Kulon Progo",
+    "koor": "-7.818889, 110.106944"
+  },
+  {
+    "tempat": "Bukit Isis Kulon Progo",
+    "koor": "-7.641667, 110.146944"
+  },
+  {
+    "tempat": "Tumpeng Menoreh",
+    "koor": "-7.636944, 110.155833"
+  },
+  {
+    "tempat": "Mahaloka Paradise Nanggulan",
+    "koor": "-7.753889, 110.201667"
+  },
+  {
+    "tempat": "Pronosutan Kembang (Jalur Sepeda Sawah)",
+    "koor": "-7.755278, 110.205278"
+  },
+  {
+    "tempat": "Geblek Menoreh View",
+    "koor": "-7.754722, 110.203611"
+  },
+  {
+    "tempat": "Pantai Glagah Indah",
+    "koor": "-7.915833, 110.073333"
+  },
+  {
+    "tempat": "Pantai Congot",
+    "koor": "-7.904444, 110.026944"
+  },
+  {
+    "tempat": "Pantai Trisik",
+    "koor": "-7.961667, 110.189722"
+  },
+  {
+    "tempat": "Pantai Bugel",
+    "koor": "-7.948889, 110.153889"
+  },
+  {
+    "tempat": "Pantai Bidara Kulon Progo",
+    "koor": "-7.935278, 110.117778"
+  },
+  {
+    "tempat": "Pantai Pasir Kadilangu",
+    "koor": "-7.906944, 110.043611"
+  },
+  {
+    "tempat": "Hutan Mangrove Wanatirta Kulon Progo",
+    "koor": "-7.903889, 110.038889"
+  },
+  {
+    "tempat": "Hutan Mangrove Pasir Mendit",
+    "koor": "-7.905278, 110.041667"
+  },
+  {
+    "tempat": "Hutan Mangrove Jembatan Api-Api",
+    "koor": "-7.904722, 110.039722"
+  },
+  {
+    "tempat": "Embung Kleco",
+    "koor": "-7.728889, 110.198611"
+  },
+  {
+    "tempat": "Embung Banjaroya Kalibawang",
+    "koor": "-7.688889, 110.241667"
+  },
+  {
+    "tempat": "Embung Krapyak Kalibawang",
+    "koor": "-7.678889, 110.231944"
+  },
+  {
+    "tempat": "Ekowisata Jatisarono",
+    "koor": "-7.771111, 110.188889"
+  },
+  {
+    "tempat": "Makam Nyi Ageng Serang",
+    "koor": "-7.708889, 110.228889"
+  },
+  {
+    "tempat": "Makam Girigondo (Pakualaman)",
+    "koor": "-7.876667, 110.098611"
+  },
+  {
+    "tempat": "Bendungan Kamijoro Park",
+    "koor": "-7.886389, 110.266389"
+  },
+  {
+    "tempat": "Kawasan Tugu Pensil Kulon Progo",
+    "koor": "-7.863889, 110.218889"
+  },
+  {
+    "tempat": "Gua Maria Sendangsono",
+    "koor": "-7.671944, 110.247222"
+  },
+  {
+    "tempat": "Gua Maria Sriningsih",
+    "koor": "-7.803889, 110.493889"
   }
 ]

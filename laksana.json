@@ -1,0 +1,86 @@
+[
+  {
+    "nama_bodi": "SR3 Panorama HD",
+    "kategori": "Big Bus (Single Glass High Deck)",
+    "keunggulan": "Konsep kaca depan tunggal (single glass) tanpa bando yang menyuguhkan visibilitas panorama luas dan lega bagi penumpang.",
+    "img": "https://user.uploads.dev/file/56734adb6f64b275c6f378dec4c1dc7e.webp"
+  },
+  {
+    "nama_bodi": "SR3 Panorama XHD",
+    "kategori": "Big Bus (Single Glass Extra High Deck)",
+    "keunggulan": "Kombinasi pandangan panorama kaca tunggal dengan volume bagasi tembus ekstra tinggi yang mampu memuat barang bawaan besar hingga sepeda motor.",
+    "img": "https://user.uploads.dev/file/c088c04de83b365b6b72ad0dcde9e3ca.webp"
+  },
+  {
+    "nama_bodi": "SR3 HD Prime",
+    "kategori": "Big Bus (Double Glass High Deck)",
+    "keunggulan": "Desain kaca ganda berkarakter kokoh dengan proporsi bodi aerodinamis yang ideal dan efisien untuk berbagai jenis sasis bus.",
+    "img": "https://user.uploads.dev/file/de741fe3b6412faaefde8427994b2851.webp"
+  },
+  {
+    "nama_bodi": "SR3 XHD PRIME",
+    "kategori": "Big Bus (Double Glass Extra High Deck)",
+    "keunggulan": "Bodi double glass dek ekstra tinggi yang menghadirkan posisi duduk penumpang lebih berwibawa dan kapasitas ruang kargo bawah maksimal.",
+    "img": "https://user.uploads.dev/file/697bc6856444d2b7bacfad6ba3265727.webp"
+  },
+  {
+    "nama_bodi": "SR2 DOUBLE DECKER",
+    "kategori": "Big Bus (Double Decker)",
+    "keunggulan": "Bus tingkat dua lantai berkapasitas muat penumpang tinggi dengan struktur bodi kokoh yang memenuhi standar uji guling internasional ECE R66.",
+    "img": "https://user.uploads.dev/file/1e324505e56d566a909f70a7811aab7d.webp"
+  },
+  {
+    "nama_bodi": "SR3 SUITES CLASS",
+    "kategori": "Sleeper Bus (Full Suites)",
+    "keunggulan": "Kabin tidur kapsul bertingkat dengan privasi individual penuh dan kursi rebah ergonomis untuk kenyamanan maksimal perjalanan malam antarkota.",
+    "img": "https://user.uploads.dev/file/d4741fdeebc379149e6258a39e49d58d.webp"
+  },
+  {
+    "nama_bodi": "SR3 SUITES COMBI",
+    "kategori": "Combination Bus (Suites & Executive)",
+    "keunggulan": "Inovasi kabin kombinasi fleksibel yang memadukan bilik tidur Suites Class di area depan dan kursi reguler eksekutif di area belakang.",
+    "img": "https://user.uploads.dev/file/87dc8d0ce7e39d9b4809e20c297a5c3b.webp"
+  },
+  {
+    "nama_bodi": "DISCOVERY",
+    "kategori": "Big Bus (Front Engine / Regular Coach)",
+    "keunggulan": "Rancangan bodi tangguh dan tahan banting yang dioptimalkan khusus untuk sasis bus mesin depan rute ekonomi maupun patas antarkota.",
+    "img": "https://user.uploads.dev/file/0bab6b2c333736e0c123575e95a7c1b5.webp"
+  },
+  {
+    "nama_bodi": "TOURISTA 2100",
+    "kategori": "Medium Bus (Standard Width)",
+    "keunggulan": "Bus ukuran sedang dengan lebar bodi 2.100 mm yang lincah dan gesit bermanuver di rute pegunungan serta jalanan sempit.",
+    "img": "https://user.uploads.dev/file/3228823856bea235cba04256166f32bf.webp"
+  },
+  {
+    "nama_bodi": "TOURISTA 2300",
+    "kategori": "Medium Bus (Wide Body)",
+    "keunggulan": "Bus medium bodi lebar 2.300 mm yang menawarkan ruang lorong serta kenyamanan tempat duduk jauh lebih lapang menyerupai kabin bus besar.",
+    "img": "https://user.uploads.dev/file/e4c726e4b1aab2b667bcb466e95dad34.webp"
+  },
+  {
+    "nama_bodi": "CITYLINE3 LE",
+    "kategori": "City Bus (Low Entrance)",
+    "keunggulan": "Bus perkotaan berlantai rendah yang ramah disabilitas dan mempermudah akses naik-turun cepat untuk operasional moda BRT.",
+    "img": "https://user.uploads.dev/file/b4ce5c19dc6887794403d8343756ce59.webp"
+  },
+  {
+    "nama_bodi": "CITYLINE3 HD",
+    "kategori": "City Bus (High Deck / BRT)",
+    "keunggulan": "Bus kota berlantai tinggi yang dirancang khusus presisi untuk integrasi halte busway melayang dengan daya angkut komuter masif.",
+    "img": "https://user.uploads.dev/file/e2a5eb9c14f441d37f327e1bdfc77200.webp"
+  },
+  {
+    "nama_bodi": "NUCLEUS",
+    "kategori": "Medium City Bus",
+    "keunggulan": "Bus kota ukuran medium yang andal dan lincah untuk melayani jalur pengumpan perkotaan (feeder) dengan tata letak kabin fungsional.",
+    "img": "https://user.uploads.dev/file/2e0770a91a965ac2b3627565810c4ab1.webp"
+  },
+  {
+    "nama_bodi": "LEGACY SR3 NEO HD PANORAMA",
+    "kategori": "Big Bus (Next-Gen Single Glass)",
+    "keunggulan": "Penyegaran bodi seri Neo dengan garis desain fascia lebih agresif, sistem penerangan modern, dan kaca panorama tunggal berbidang pandang luas.",
+    "img": "https://user.uploads.dev/file/a0c2cd29bbc52fc0004d0caf43f49513.webp"
+  }
+]
